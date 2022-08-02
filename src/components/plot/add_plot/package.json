@@ -1,0 +1,6 @@
+{
+  "name": "add_plot",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./addPlot.js"
+}

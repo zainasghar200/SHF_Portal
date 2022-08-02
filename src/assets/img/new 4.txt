@@ -1,0 +1,32 @@
+DONE 1- Bottom Align search bar controls in grid card. 
+DONE 2- wave effect in left bar 
+DONE 3- change icon color to gray within grid and actual color for pdf and excel.
+4- tab slider line missing
+DONE 5- flat buttons with colors
+DONE (Backend API LEFT)6- Lookups for Address needs to be fetched (Country, State, City)
+DONE 7- Remove Address Id and Tenant Id from Company
+DONE 8- Enable Sorting and Filtering on Kendo Grid
+
+DONE 9- Search text getting invisible.
+10- Top Search bar animation needs to be fixed
+DONE 11- Selected option from left nav bar 
+12- Customer:
+	Code
+	Name
+	Type
+	Classification  -null
+	Location        -not available
+	Status 			-not available
+	
+DONE (BACKEND REMAINING)13- Site Grid in Customer Popup to Add/Edit/Delete Customer Site
+14- Distributor :
+	Code 
+	Name
+	Type
+	Parent Distributor
+	Status  		-not available
+DONE 15- breadcrumb arrow color black
+
+DISTRIBUTOR EMPTY
+Customer Master => Distributor Id, Bank Account Number Id
+Distributor => Location Id, Company Id
